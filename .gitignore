@@ -5,3 +5,6 @@ out
 .env.local
 coverage
 .DS_Store
+
+# Local backup files
+*.backup
